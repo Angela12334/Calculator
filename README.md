@@ -1,5 +1,5 @@
 # CALCULATOR:JAVA SCRIPT PROJECT
-<a href="file:///Applications/javascript/calculator.html">
+<a href="file:///Users/alexdemola/Desktop/angela/calculator/index.html">
 A simple Calculator for general purposes.
 
 ## Why use it?##
